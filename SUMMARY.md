@@ -19,7 +19,8 @@
   * [工具栏](articles/print/3-/toolbar.md)
   * [属性区](articles/print/3-/property_area.md)
 
-* [产品常见问题]() * [常见问题](articles/print/4-/question.md)
+* [产品常见问题]() 
+   * [常见问题](articles/print/4-/question.md)
 
 * [API参考]()
   * [系统架构](articles/print/4-/system_structure.md)
