@@ -1,11 +1,11 @@
 # Summary
 
 * [Introduction](README.md)
-* [产品介绍]
+* \[产品介绍\]
     * [概述](articles/print/1-/gai_shu.md)
     * [产品特性](articles/print/1-/features.md)
     * [设计器简介](articles/print/1-/designer_intro.md)
-* [快速入门]
+* \[快速入门\]
     * [单一表格](articles/print/2-/single_table.md)
     * [普通列表](articles/print/2-/common_list.md)
     * [普通单据](articles/print/2-/document.md)
@@ -22,7 +22,7 @@
     * [云打印业务](articles/print/4-/print_business.md)
     * [对接步骤](articles/print/4-/connect_steps.md)
     * [数据接口API](articles/print/4-/api.md)
-* [API参考]
+* [\[API参考\]](api参考.md)
     * [系统架构](articles/print/5-/system_structure.md)
     * [云打印业务](articles/print/5-/print_business.md)
     * [对接步骤](articles/print/5-/connect_steps.md)
