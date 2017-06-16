@@ -16,9 +16,9 @@
     * [控件区](articles/print/3-/control_area.md)
     * [工具栏](articles/print/3-/toolbar.md)
     * [属性区](articles/print/3-/property_area.md)
-* [产品常见问题](产品常见问题.md)
+* 产品常见问题
     * [常见问题](articles/print/4-/question.md)
-* [API参考](api参考.md)
+* API参考
     * [系统架构](articles/print/5-/system_structure.md)
     * [云打印业务](articles/print/5-/print_business.md)
     * [对接步骤](articles/print/5-/connect_steps.md)
