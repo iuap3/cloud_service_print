@@ -19,8 +19,8 @@
 * [产品常见问题](产品常见问题.md)
     * [常见问题](articles/print/4-/question.md)
 * [API参考](api参考.md)
-    * [系统架构](articles/print/4-/system_structure.md)
-    * [云打印业务](articles/print/4-/print_business.md)
-    * [对接步骤](articles/print/4-/connect_steps.md)
-    * [数据接口API](articles/print/4-/api.md)
+    * [系统架构](articles/print/5-/system_structure.md)
+    * [云打印业务](articles/print/5-/print_business.md)
+    * [对接步骤](articles/print/5-/connect_steps.md)
+    * [数据接口API](articles/print/5-/api.md)
 
