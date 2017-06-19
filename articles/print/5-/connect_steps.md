@@ -113,7 +113,7 @@ Saas后台服务接口如下：
  </tbody> 
 </table> 
 
-[sfexpressBO.js](#/iuap_paas_print/articles/print/4-/images/sfexpressbo.html)
+[sfexpressBO.js](#/cloud_service_print/articles/print/4-/images/sfexpressbo.html)
 
 
 6、创建模板
