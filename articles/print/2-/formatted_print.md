@@ -2,11 +2,11 @@
 
 对于套打的模板设计，以顺丰快递单为例。点击工具栏上的【底图】，将快递单图片加入画布，然后将数据变量拖入画布相应位置，请注意，需要删除字段名称，只保留变量部分，如下图所示：
 
-![](/articles/print/2-/images/image27.png)
+![](/articles/print/2-/images/image26.png)
 
 在所有需要设置的字段都填入变量后，点击【保存】保存模板，点击【预览】预览格式。
 
-![](/articles/print/2-/images/image28.png)
+![](/articles/print/2-/images/image27.png)
 
 
  
