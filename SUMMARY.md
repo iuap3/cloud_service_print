@@ -15,6 +15,7 @@
     * [控件区](articles/print/3-/control_area.md)
     * [工具栏](articles/print/3-/toolbar.md)
     * [属性区](articles/print/3-/property_area.md)
+    * [导出和打印](articles/print/3-/export_print.md)
 * [产品常见问题](articles/print/4-/)
     * [常见问题](articles/print/4-/question.md)
 * [API参考](articles/print/5-/)
