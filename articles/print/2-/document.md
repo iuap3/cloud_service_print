@@ -2,31 +2,36 @@
 
 对于单据类包含主表和子表的模板设计，以《交通费报销单》为例，预览效果如下。
 
-![](/articles/print/2-/images/image16.png)
+![](/articles/print/2-/images/image15.png)  
  
 首先第一步：设置页面纸张、方向、页边距。设置过程参考单一表格。
+
 第二步：设置主表显示数据。点击【数据】按钮，并将其拖拽到画布。
+
 然后从左侧数据源中拖拽字段到数据区，利用画布上方工具栏里的对齐按钮进行布局设计。可以批量选择多个文本框统一设置高度、边框等。
 
-![](/articles/print/2-/images/image17.png)
+![](/articles/print/2-/images/image16.png)  
+
  
 第三步：设置子表显示数据。
-拖拽左侧数据源的表名至画布区，弹出字段选择提示框，勾选希望在列表上显示的字段，并可以通过上下箭头调整显示顺序。
+
+点击左侧控件区的【列表】按钮，并将其拖拽到主表下方。勾选希望在列表上显示的字段，并可以通过上下箭头调整显示顺序。
  
-![](/articles/print/2-/images/image18.png)
+![](/articles/print/2-/images/image17.png)  
 
-![](/articles/print/2-/images/image19.png)
-
+![](/articles/print/2-/images/image18.png)  
+ 
 
 第四步：设置主子表的关联关系。
+
 双击子表数据区打开弹出页面，如下所示。
 
-![](/articles/print/2-/images/image20.png)
+![](/articles/print/2-/images/image19.png)  
  
 
 在弹出页面上选中“数据1”后点确定，完成主子表的关联。
 
-![](/articles/print/2-/images/image21.png)
+![](/articles/print/2-/images/image20.png)  
  
 
 第五步：保存模板，然后在单据上点击【预览】按钮，查看效果并打印就可以了。
