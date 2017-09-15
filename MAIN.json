@@ -1,0 +1,34 @@
+{ 
+ "title": "云打印", 
+ "desc": "iuap云打印是用友 iuap 企业互联网开放平台中的PaaS公有云服务，提供与打印相关的平台、应用、工具和
+
+服务，支持企业和开发者在移动互联网时代的业务或应用创新。使用云打印公有云服务，可以套打、单据、报表等企业
+
+级样式设计、管理与打印；基于元数据服务的打印样式设计、组织与数据权限、扩展框架，满足各种业务需求；全面基
+
+于互联网技术、标准和运营体系的企业级PaaS服务，拿来在就用，随时可用，加速上线，减少你的开发、迭代与运维成
+
+本。", 
+ "list": [ 
+ { 
+ "title": "快速入门", 
+ "link": "#/md-build/cloud_service_print/articles/print/2-/single_table.md", 
+ "desc": "本文详解了各类表格、列表、单据、套打模板的打印模板设计" 
+ }, 
+ { 
+ "title": "数据区", 
+ "link": "#/md-build/cloud_service_print/articles/print/3-/data_area.md", 
+ "desc": "讲解了打印模板的数据源和系统变量" 
+ }, 
+ { 
+ "title": "控件区", 
+ "link": "#/md-build/cloud_service_print/articles/print/3-/control_area.md", 
+ "desc": "讲解了常用控件和高级控件的功能" 
+ }, 
+ { 
+ "title": "导出和打印", 
+ "link": "#/md-build/cloud_service_print/articles/print/3-/export_print.md", 
+ "desc": "讲解了预览、导出和打印的操作过程" 
+ }
+ ] 
+ } 
