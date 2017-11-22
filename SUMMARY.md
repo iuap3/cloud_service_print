@@ -4,6 +4,7 @@
     * [背景概述](articles/print/1-/gai_shu.md)
     * [产品特性](articles/print/1-/features.md)
     * [设计器简介](articles/print/1-/designer_intro.md)
+    * [移动打印云服务](articles/print/1-/designer_intro.md)
 * [快速入门](articles/print/2-/)
     * [单一表格](articles/print/2-/single_table.md)
     * [普通列表](articles/print/2-/common_list.md)
