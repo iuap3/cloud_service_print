@@ -6,7 +6,7 @@
     * [设计器简介](articles/print/1-/designer_intro.md)
     * [移动打印云服务](articles/print/1-/mobile_print.md)
 * [版本更新](articles/product/6-/)
-    * [版本历程](articles/product/1-/version_update.md)
+    * [版本历程](articles/product/6-/version_update.md)
 * [快速入门](articles/print/2-/)
     * [单一表格](articles/print/2-/single_table.md)
     * [普通列表](articles/print/2-/common_list.md)
